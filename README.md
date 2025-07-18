@@ -1,5 +1,4 @@
-# Picture here
-# Project Title
+#
 ## Overview
 ## Business Understanding
 ## Data Understanding
